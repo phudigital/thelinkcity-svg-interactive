@@ -87,14 +87,7 @@ Tìm đến thẻ cần tạo hiệu ứng (ví dụ: `<path>`, `<rect>`, `<g>`)
 
 ## 👨‍💻 Tác giả
 
-<p align="left">
-  <a href="https://pdl.vn/" target="_blank">
-    <img src="https://pdl.vn/wp-content/uploads/2025/12/logopdlphudigital.png" width="150" alt="Phú Digital Logo">
-  </a>
-  <br>
-  <b>Phú Digital</b> (<a href="https://phudigital.com">https://phudigital.com</a>)<br>
-  Thuộc <b>Công Ty TNHH Giải Pháp PDL</b> (<a href="https://pdl.vn">https://pdl.vn</a>)
-</p>
+Dự án được thực hiện bởi [Phú Digital](https://phudigital.com) thuộc [Công Ty TNHH Giải Pháp PDL](https://pdl.vn).
 
 ## 📄 License
 
