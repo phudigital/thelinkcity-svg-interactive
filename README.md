@@ -3,7 +3,7 @@
 ![SVG](https://img.shields.io/badge/SVG-Interactive-orange?style=for-the-badge&logo=accessible-icon)
 ![CSS3](https://img.shields.io/badge/CSS3-Animations-blue?style=for-the-badge&logo=css3)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Author](https://img.shields.io/badge/Author-Phu_Digital-red?style=for-the-badge&link=https://pdl.vn/)
+![Author](https://img.shields.io/badge/Author-Phu_Digital-red?style=for-the-badge&link=https://phudigital.com)
 
 Bản đồ tương tác chất lượng cao với các hiệu ứng chuyển động CSS tinh tế, được thiết kế cho trải nghiệm người dùng hiện đại cho dự án [The Link City Dầu Giây](https://bookingreal.com/du-an/khu-do-thi-the-link-city-dau-giay).
 
@@ -92,8 +92,8 @@ Tìm đến thẻ cần tạo hiệu ứng (ví dụ: `<path>`, `<rect>`, `<g>`)
     <img src="https://pdl.vn/wp-content/uploads/2025/12/logopdlphudigital.png" width="150" alt="Phú Digital Logo">
   </a>
   <br>
-  <b>Phú Digital</b><br>
-  Website: <a href="https://pdl.vn/">https://pdl.vn/</a>
+  <b>Phú Digital</b> (<a href="https://phudigital.com">https://phudigital.com</a>)<br>
+  Thuộc <b>Công Ty TNHH Giải Pháp PDL</b> (<a href="https://pdl.vn">https://pdl.vn</a>)
 </p>
 
 ## 📄 License
