@@ -56,6 +56,15 @@ Mở file `.svg` bằng trình soạn thảo mã nguồn và thêm thẻ `<style
 | `.logo-pulse`  | Đập/Tỏa sáng      | `transform: scale(1.1); filter: brightness(1.2);` |
 | `.rotate-slow` | Xoay chậm         | `to { transform: rotate(360deg); }`               |
 
+#### 🔍 Chi tiết về Hiệu ứng Dòng chảy (Dash Flow)
+
+Đây là kỹ thuật quan trọng nhất để tạo cảm giác "đường phố đang chuyển động":
+
+1.  **stroke-dasharray**: Chia đường thẳng thành các đoạn nét đứt (ví dụ: `8,8` nghĩa là 8px hiện, 8px ẩn).
+2.  **stroke-dashoffset**: Dịch chuyển vị trí bắt đầu của các nét đứt này.
+3.  **Animation**: Khi ta liên tục thay đổi `stroke-dashoffset` từ `0` đến một bội số của tổng độ dài nét đứt (trong ví dụ là `8 + 8 = 16`), mắt người sẽ thấy các nét đứt như đang chạy về phía trước.
+    - _Lưu ý:_ Giá trị âm (`-16`) sẽ làm dòng chảy chạy theo hướng thuận của Path, giá trị dương sẽ chạy ngược lại.
+
 ### Bước 3: Gán Class vào các thẻ SVG
 
 Tìm đến thẻ cần tạo hiệu ứng (ví dụ: `<path>`, `<rect>`, `<g>`) và thêm thuộc tính `class`:
