@@ -3,7 +3,7 @@
 ![SVG](https://img.shields.io/badge/SVG-Interactive-orange?style=for-the-badge&logo=accessible-icon)
 ![CSS3](https://img.shields.io/badge/CSS3-Animations-blue?style=for-the-badge&logo=css3)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Author](https://img.shields.io/badge/Author-Phu_Digital-red?style=for-the-badge)
+![Author](https://img.shields.io/badge/Author-Phu_Digital-red?style=for-the-badge&link=https://pdl.vn/)
 
 Bản đồ tương tác chất lượng cao với các hiệu ứng chuyển động CSS tinh tế, được thiết kế cho trải nghiệm người dùng hiện đại.
 
@@ -76,6 +76,17 @@ Tìm đến thẻ cần tạo hiệu ứng (ví dụ: `<path>`, `<rect>`, `<g>`)
 2. **Stroke-dasharray**: Hiệu ứng di chuyển nét đứt chỉ hoạt động với các thẻ có thuộc tính `stroke-dasharray`.
 3. **Hardware Acceleration**: Sử dụng `transform` thay vì thay đổi trực tiếp tọa độ để đạt hiệu năng tốt nhất.
 
+## 👨‍💻 Tác giả
+
+<p align="left">
+  <a href="https://pdl.vn/" target="_blank">
+    <img src="https://pdl.vn/wp-content/uploads/2025/12/logopdlphudigital.png" width="150" alt="Phú Digital Logo">
+  </a>
+  <br>
+  <b>Phú Digital</b><br>
+  Website: <a href="https://pdl.vn/">https://pdl.vn/</a>
+</p>
+
 ## 📄 License
 
-Dự án được phát triển bởi **Phu Digital Vibe Coding**. Trình bày và tối ưu hóa bởi Antigravity AI.
+Dự án được phát triển bởi **Phú Digital**. Trình bày và tối ưu hóa bởi Antigravity AI.
