@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Phu_Digital-red?style=for-the-badge&link=https://pdl.vn/)
 
-Bản đồ tương tác chất lượng cao với các hiệu ứng chuyển động CSS tinh tế, được thiết kế cho trải nghiệm người dùng hiện đại.
+Bản đồ tương tác chất lượng cao với các hiệu ứng chuyển động CSS tinh tế, được thiết kế cho trải nghiệm người dùng hiện đại cho dự án [The Link City Dầu Giây](https://bookingreal.com/du-an/khu-do-thi-the-link-city-dau-giay).
 
 ## 🌟 Tính Năng Nổi Bật
 
